@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+    font-family: Source Sans Pro;
+}
 nav{
     background-color: #5A20CB;
 }
@@ -33,6 +36,8 @@ a{
     color: white;
     text-decoration: none;
     margin: 0px 20px;
+    font-size: 17px;
+    font-weight: 500;
 }
 .nav4{
     margin-left: 80px;
